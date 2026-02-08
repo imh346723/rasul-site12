@@ -11,7 +11,7 @@ h1 {
 .link-header {
     text-decoration: none;
     color: #249108;
-    border: 2px solid #E9D913;
+    border: 3px dashed #E9D913;
 
   
 }
@@ -22,10 +22,7 @@ header {
     padding-left: 225px;
     font-size: 25px;
 }
-.link-nav {
-    color: blACK;
-    font-size: 25px;
-}
+
 .link-header:hover {
    font-size: 20px;
    color: white;
@@ -69,5 +66,5 @@ p:hover {
 }
 .social{
    transition: all ;
-    background-image: linear-gradient(white,blue )
+    background-image: linear-gradient(white,#85F169 )
 } 
