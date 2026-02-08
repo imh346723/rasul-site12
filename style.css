@@ -1,0 +1,44 @@
+
+
+body {
+    font-family: sans-serif;
+
+}
+h1 {
+    text-decoration: 
+}
+.link-header {
+    text-decoration: none;
+    color: white;
+    border: 2px solid black;
+
+  
+}
+header {
+    background-color: grey;
+    padding: 2px;
+    padding-left: 225px;
+    font-size: 25px;
+}
+.link-nav {
+    color: black;
+}
+.link-header:hover {
+   font-size: 20px;
+   color: white;
+   border: 2px solid black;
+}
+p:hover {
+    font-size: 20px;
+}
+li {
+    font-size: 17px;
+}  
+li:hover {
+    font-size: 20px;
+    color: grey;
+}
+.link-text:hover {
+    font-size: 20px;
+    color: grey;
+}
