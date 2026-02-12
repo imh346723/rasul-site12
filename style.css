@@ -65,6 +65,5 @@ p:hover {
     color: #E9D913;
 }
 .social{
-   transition: all ;
-    background-image: linear-gradient(white,#85F169 )
+   margin-left: 20px;
 } 
